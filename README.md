@@ -206,15 +206,9 @@ This case study showcases the ability to:
 
 ---
 
-## 9. Final Note
+## 🔗 Interactive Dashboard
 
-This dashboard is not designed as a reporting artefact.
-
-It is a **decision-support and communication tool**, built to:
-- Align stakeholders  
-- Build trust in data  
-- Drive focused, realistic improvements  
-
-It reflects a modern analytics mindset where **data exists to enable better conversations and better decisions**.
+👉 Explore the interactive Power BI dashboard here:  
+https://app.powerbi.com/view?r=eyJrIjoiZjY5MmEzYWYtYTEzZi00OTMxLTljM2UtMTFmNDgzOWQ2Mzc1IiwidCI6ImNkOTA5ZjUwLTJjM2UtNDk0Mi1hNWE3LWE0Y2Y3NDUzOGVjYiIsImMiOjl9
 
 ---
