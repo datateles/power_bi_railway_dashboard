@@ -9,13 +9,6 @@ This project presents an end-to-end **Railway Performance & Revenue Analytics** 
 
 The objective is not only to report operational metrics, but to **answer concrete business questions** raised by executives, operations, commercial teams, and customer experience stakeholders.
 
-The project follows data storytelling and stakeholder communication principles inspired by:
-
-- *Effective Data Storytelling* — Brent Dykes  
-- *The Stakeholder Communication Handbook* — Carisa Carlton  
-- *Data Insights Delivered* — Mo Villagran  
-- *Storytelling with Data* — Cole Nussbaumer Knaflic  
-
 ---
 
 ## 2. Business Context
