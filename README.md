@@ -202,6 +202,7 @@ This case study showcases the ability to:
 ## 🔗 Interactive Dashboard
 
 👉 Explore the interactive Power BI dashboard here: 
-[Railway Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZjY5MmEzYWYtYTEzZi00OTMxLTljM2UtMTFmNDgzOWQ2Mzc1IiwidCI6ImNkOTA5ZjUwLTJjM2UtNDk0Mi1hNWE3LWE0Y2Y3NDUzOGVjYiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiYmE2MTRhMjItZDM3ZS00YjA3LWIzMjEtNjNiZDg3YTFkNGQ3IiwidCI6IjJmMjllNGViLTdhM2ItNDRhNi04ZDA5LTJhZmE4ZTg3N2M1MSJ9&pageName=7ce5c909364be0009cbd))
+
+[RailwayDashboard]([https://app.powerbi.com/view?r=eyJrIjoiZjY5MmEzYWYtYTEzZi00OTMxLTljM2UtMTFmNDgzOWQ2Mzc1IiwidCI6ImNkOTA5ZjUwLTJjM2UtNDk0Mi1hNWE3LWE0Y2Y3NDUzOGVjYiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiYmE2MTRhMjItZDM3ZS00YjA3LWIzMjEtNjNiZDg3YTFkNGQ3IiwidCI6IjJmMjllNGViLTdhM2ItNDRhNi04ZDA5LTJhZmE4ZTg3N2M1MSJ9&pageName=7ce5c909364be0009cbd))
 
 ---
